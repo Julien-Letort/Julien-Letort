@@ -6,7 +6,6 @@
 - 🎓 I'm currently pursuing a master's degree in **Quantitative Finance**.
 - 📊 I'm passionate about **applied mathematics** and its applications in **finance**.
 - 🏐 I love sports, especially **beach volleyball**.
-- 🌱 I'm constantly learning and improving my skills in mathematics, programming, and finance.
 
 ## Interests
 - 📈 **Finance**: Derivatives pricing, risk management, quantitative strategies.
